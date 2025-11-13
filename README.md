@@ -1,2 +1,2 @@
 # concursoTI
-Treino para apeiferçoar
+Treino para aperfeiçoar
